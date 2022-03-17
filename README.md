@@ -37,15 +37,14 @@ This password generator will enable the user to create a secure password that wi
 * WHEN the password is generated
 * THEN the password is either displayed in an alert or written to the page
 
-## Screenshot
-
-![alt="Screenshot of Landing Page"](assets/screenshot.png)
-
 ## Credits
 
 W3 schools tutorials for defining functions, returning integers, and isNAN
 
+## Screenshot
+
+![alt="Screenshot of Landing Page"](assets/screenshot.png)
+
 ## Link to depolyed page
 
 [Portfolio Webpage]( https://cpriyam90.github.io/Password-generator/)
-# Password-generator
