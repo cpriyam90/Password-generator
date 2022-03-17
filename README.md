@@ -39,7 +39,7 @@ This password generator will enable the user to create a secure password that wi
 
 ## Screenshot
 
-![alt="Screenshot of Landing Page"](assets/images/screenshot.png)
+![alt="Screenshot of Landing Page"](assets/screenshot.png)
 
 ## Credits
 
@@ -47,5 +47,5 @@ W3 schools tutorials for defining functions, returning integers, and isNAN
 
 ## Link to depolyed page
 
-[Portfolio Webpage]( https://cpriyam90.github.io/First-Portfolio-Assignment/)
+[Portfolio Webpage]( https://cpriyam90.github.io/Password-generator/)
 # Password-generator
