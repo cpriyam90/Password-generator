@@ -45,6 +45,6 @@ W3 schools tutorials for defining functions, returning integers, and isNAN
 
 ![alt="Screenshot of Landing Page"](assets/Screenshot.png)
 
-## Link to depolyed page
+## Link to deployed page
 
-[Portfolio Webpage]( https://cpriyam90.github.io/Password-generator/)
+[Password Generator]( https://cpriyam90.github.io/Password-generator/)
