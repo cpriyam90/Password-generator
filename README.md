@@ -43,7 +43,7 @@ W3 schools tutorials for defining functions, returning integers, and isNAN
 
 ## Screenshot
 
-![alt="Screenshot of Landing Page"](assets/screenshot.png)
+![alt="Screenshot of Landing Page"](assets/Screenshot.png)
 
 ## Link to depolyed page
 
